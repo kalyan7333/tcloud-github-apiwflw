@@ -10,7 +10,8 @@ terraform {
       workspaces {
         name = "github-actions"
 }
-
+}
+}
 provider "aws" {
   region = "us-east-1"
 }

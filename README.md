@@ -1,1 +1,1 @@
-# TeRrraform Cloud Module for Instance and VPC Creation1
+# Terradform Cloud Module for Instance and VPC Creation1

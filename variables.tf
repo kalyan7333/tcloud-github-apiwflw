@@ -43,7 +43,7 @@ variable "az_name" {
 variable "ami_id" {
   type        = string
   description = "The id of the machine image (AMI) to use for the server."
-  default     = "ami-020cba7cq55df1f615"
+  default     = "ami-020cba7c55df1f615"
 }
 
 locals {

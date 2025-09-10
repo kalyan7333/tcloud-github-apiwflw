@@ -36,7 +36,7 @@ variable "aws_region" {
 variable "az_name" {
   description = "Availability Zone name should be region defined in aws_region variable"
   type        = string
-  default     = "us-east-1b"
+  default     = "us-east-1a"
 }
 
 

@@ -6,9 +6,9 @@ terraform {
     }
 }
 cloud { 
-    organization = "kalyanpath-demo" 
+    organization = "kalyan-demo-org" 
     workspaces { 
-      name = "github-actions" 
+      name = "tcloud-github-apiwflow" 
     } 
   } 
 }
